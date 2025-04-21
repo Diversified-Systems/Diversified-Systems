@@ -6414,6 +6414,7 @@ html body p {
 }
 #logo {
   margin: 1rem;
+  text-align: center;
 }
 .breadcrumb {
   background-color: transparent;
@@ -6430,7 +6431,6 @@ html body p {
   .section-title {
     padding-top: .5rem;
     padding-bottom: .5rem;
-    margin-bottom: 2rem;
   }
 }
 .section-title h2 {
@@ -6444,7 +6444,6 @@ html body p {
 }
 @media (min-width: 768px) {
   .section-content {
-    padding-top: 4rem;
     padding-bottom: 4rem;
   }
 }
@@ -6561,6 +6560,7 @@ img.product-option-image {
   flex: 1 0 auto;
   -webkit-flex: 1;
   height: 100%;
+  margin-top: 12rem;
 }
 .main.header-minimal {
   padding: 0;
